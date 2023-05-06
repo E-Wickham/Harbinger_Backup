@@ -108,4 +108,12 @@ body {
     .links {
         display: none;
     }
+
+    .logo img {
+        max-width: 300px;
+    }
+
+    .harb_icon img {
+        display: none;
+    }
 }
